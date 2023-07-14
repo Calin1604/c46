@@ -1,0 +1,20 @@
+h1{
+    color:brown;
+}
+.header{
+    background-color: blueviolet;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p{
+    text-align: center;
+
+}
